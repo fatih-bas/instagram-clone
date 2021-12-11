@@ -1,5 +1,5 @@
-# kodluyoruzyedincirepo
->Instagram clone
+# patika.dev-repo-7
+### Instagram clone
 - Html
 - Css
 - Bootstrap
